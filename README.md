@@ -1,3 +1,2 @@
 # Pokemon-API
-JavaScript básico para fazer uma busca em uma API.
-Banco de dados de Pokemons
+JavaScript básico para fazer uma busca em uma API contendo um banco de dados de Pokemons.
